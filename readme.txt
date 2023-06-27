@@ -1,8 +1,6 @@
-# A basic portfolio website.
+Overview: A basic portfolio website.
 
----
-
-## Features
+Its basic features or purpose are : 
 
 The website is being developed using a mobile-first approach. The design is responsive enough to be viewable on all screen sizes. Good colour contrast and standard font size have been used to increase the readability of the website.
 
